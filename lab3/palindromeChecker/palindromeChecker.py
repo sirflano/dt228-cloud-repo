@@ -6,3 +6,9 @@ class readin:
   print(teBeChecked)
   print(tempString)
 
+  if teBeChecked == tempString:
+    print("True")
+  else:
+    print("False")
+    
+ 
